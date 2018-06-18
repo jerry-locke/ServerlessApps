@@ -1,0 +1,27 @@
+{
+    "status": "Activated",
+    "context": {
+        "id": "/subscriptions/xxxxxxxxx-xxxxxxxxx-xxxxxxxxx-xxxxxxxxx/resourceGroups/ApplicationTestRG/providers/microsoft.insights/alertrules/temp test-Application-test-xxxxxx-xxxxxxx-xxxxxxx-xxxxxxx",
+        "name": "Company Avilability-Application-test-xxxxxx-xxxxxxx-xxxxxxx-xxxxxxx",
+        "description": "",
+        "conditionType": "Webtest",
+        "condition": {
+            "webTestName": "temp test-Application-test",
+            "failureDetails": "",
+            "metricName": "Failed Locations",
+            "metricUnit": "locations",
+            "metricValue": "0",
+            "threshold": "1",
+            "timeAggregation": "Sum",
+            "operator": "GreaterThan",
+            "windowSize": "5"
+        },
+        "subscriptionId": "xxxxxxxxx-xxxxxxxxx-xxxxxxxxx-xxxxxxxxx",
+        "resourceGroupName": "ApplicationTestRG",
+        "timestamp": "02/13/2017 22:04:01",
+        "resourceName": "Application-Test",
+        "resourceType": "components",
+        "resourceId": "/subscriptions/xxxxxxxxx-xxxxxxxxx-xxxxxxxxx-xxxxxxxxx/resourceGroups/ApplicationTestRG/providers/microsoft.insights/components/Application-Test",
+        "portalLink": "https://go.microsoft.com/fwlink/?LinkID=615149&subscriptionId=xxxxxxxxx-xxxxxxxxx-xxxxxxxxx-xxxxxxxxx&resourceGroup=ApplicationTestRG&resourceType=webtests&resourceName=temp+test-Application-test&tc=7AIAAB-LCAAAAAAABACtkd1KA0EMhc_LODfLlP2120sRFNGrWhC82267uFhd6bb6-n6ZKbWCCIKEhMzJOZNMppHThW70oLWWetKAPYNt8YjtiCPRaaZO5yCNSqySJ-vUgnnOGUhGVnNuiV4FtlKKIg-amvoaxGmhnhsbvZLF2-e6_ob7Y8WFCV70puQ4i8e_mLs_M-O8LSebttMUJOdUgVltyZSWzUCnvMBTS7kjw4ugqWA1oE4f-BV5r014XaI7dtiCWOeBviOMkXylM9QNMadnjP-104ne6TBqD7oJb9yDWv8JyoGtxH4DyhHFFv7phIb0YTuRd0uPU8vwnP5z-qfspMRr3Oarw28Zx_ZVMKtlddjq5Y_477PE6kL3QVscvERrf2FbcTCsZh3iXMZJyPLDjo0Xswx7ROH0CdRbqHfsAgAA0&aadTenantId=h"
+    }
+}

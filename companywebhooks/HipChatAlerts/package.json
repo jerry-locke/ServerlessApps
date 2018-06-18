@@ -1,0 +1,18 @@
+{
+  "name": "companyhipchat",
+  "version": "1.0.0",
+  "description": "Webhook for sending notifications to HipChat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "HipChat",
+    "Webhook"
+  ],
+  "author": "Jerry Locke",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.79.0"
+  }
+}
